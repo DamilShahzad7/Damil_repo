@@ -68,3 +68,7 @@ variable = tk.StringVar(root)
 variable.set(currencies[0])  # default value
 style = ttk.Style()
 style.configure('my.TCombobox', font=('Arial', 14), foreground='#FFFFFF', background='#2980B')
+
+
+
+# from new branch ------
