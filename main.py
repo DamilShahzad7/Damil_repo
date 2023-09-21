@@ -71,5 +71,5 @@ style.configure('my.TCombobox', font=('Arial', 14), foreground='#FFFFFF', backgr
 
 
 # from new branch ------
-# editing here....
+
 # added a text file
